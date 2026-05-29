@@ -1,0 +1,26 @@
+{
+  "name": "SGMS",
+  "symbol": "SGMS",
+  "description": "SGMS token for the Solgames ecosystem.",
+  "image": "https://solgames.io/sgms/sgms.png",
+  "external_url": "https://solgames.io/sgms",
+  "attributes": [
+    { "trait_type": "network", "value": "mainnet-beta" },
+    { "trait_type": "decimals", "value": "9" }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://solgames.io/sgms/sgms.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "Eyogjr7heZHef4WQmtdqtPsQ7AQjFT1G79AneY1A4isj",
+        "share": 100
+      }
+    ]
+  }
+}
